@@ -36,8 +36,4 @@ This repository contains the R scripts used to analyse the policy-mapping data a
 
 ## Requirements
 
-The scripts use the following R packages: `ggplot2`, `dplyr`, `tidyr`, `plyr`, `viridis` (via `scale_fill_viridis_d()`), `ggpubr`, `rstatix`, `tidyverse`, `stargazer`, and `readr`. Install any missing packages with `install.packages()` before running.
-
-## License
-
-MIT
+The scripts use the following R packages: `ggplot2`, `dplyr`, `tidyr`, `plyr`, `viridis` (via `scale_fill_viridis_d()`), `ggpubr`, `rstatix`, `tidyverse`, `stargazer`, and `readr`.
