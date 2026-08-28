@@ -14,7 +14,7 @@ Keessy Maria-Prisca Kouakou (prisca dot kouakou at outlook dot com)
 
 The data underlying this analysis (the policy-instrument codebooks for Côte d'Ivoire and Ghana, and the organisation-level coding) are provided as Supporting Information with the published article: **Data S1** (`sd70266-sup-0001-DataS1.xlsx`, Excel workbook, 173.5 KB), available on the [journal's article page](https://doi.org/10.1002/sd.70266).
 
-Data S1 is a single Excel workbook containing multiple sheets (one per codebook: Ghana policy instruments, Côte d'Ivoire policy instruments, and organisation-level coding). To reproduce the analysis: open the workbook, export each relevant sheet as its own CSV file, and place these in a local `data/` folder (not tracked in this repository). Each script below states the exact filename it expects — rename your exported CSVs to match, or adjust the `read.csv()` paths at the top of each script. Full descriptions of variables, coding categories, and analytical procedures are provided in the article's Methods section and Supporting Information.
+Data S1 is a single Excel workbook containing multiple sheets (one per codebook: Ghana policy instruments, Côte d'Ivoire policy instruments, and organisation-level coding). To reproduce the analysis: open the workbook, export each relevant sheet as its own CSV file, and place these in a local `data/` folder (not tracked in this repository). Each script below states the exact filename it expects, rename your exported CSVs to match, or adjust the `read.csv()` paths at the top of each script. Full descriptions of variables, coding categories, and analytical procedures are provided in the article's Methods section and Supporting Information.
 
 ## Repository description
 
