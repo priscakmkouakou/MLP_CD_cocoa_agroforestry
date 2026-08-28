@@ -8,7 +8,7 @@ Kouakou, K. M.-P., J. Lyons-White, W. J. Thompson, T. Addoah, F. Cammelli, W. J.
 
 ## Author
 
-Keessy Maria-Prisca Kouakou (prisca.kouakou@outlook.com)
+Keessy Maria-Prisca Kouakou (prisca dot kouakou at outlook dot com)
 
 ## Data download
 
